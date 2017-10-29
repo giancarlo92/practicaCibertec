@@ -1,0 +1,16 @@
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe.config
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\EntityFramework.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\GestionDeLasMuestras.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\InterfacesMuestrasLaboratorio.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\Inventairo.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\GestionDeLasMuestras.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\InterfacesMuestrasLaboratorio.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\Inventairo.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\EntityFramework.xml
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csprojResolveAssemblyReference.cache
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.exe
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.pdb

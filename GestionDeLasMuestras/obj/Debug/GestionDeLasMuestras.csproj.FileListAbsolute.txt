@@ -1,0 +1,14 @@
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\bin\Debug\GestionDeLasMuestras.dll.config
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\bin\Debug\GestionDeLasMuestras.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\bin\Debug\GestionDeLasMuestras.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\bin\Debug\EntityFramework.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\bin\Debug\InterfacesMuestrasLaboratorio.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\bin\Debug\Inventairo.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\bin\Debug\InterfacesMuestrasLaboratorio.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\bin\Debug\Inventairo.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\bin\Debug\EntityFramework.xml
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\obj\Debug\GestionDeLasMuestras.csprojResolveAssemblyReference.cache
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\obj\Debug\GestionDeLasMuestras.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\GestionDeLasMuestras\obj\Debug\GestionDeLasMuestras.pdb

@@ -1,0 +1,9 @@
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\InterfacesMuestrasLaboratorio\bin\Debug\InterfacesMuestrasLaboratorio.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\InterfacesMuestrasLaboratorio\bin\Debug\InterfacesMuestrasLaboratorio.pdb
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\InterfacesMuestrasLaboratorio\bin\Debug\EntityFramework.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\InterfacesMuestrasLaboratorio\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\InterfacesMuestrasLaboratorio\bin\Debug\EntityFramework.xml
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\InterfacesMuestrasLaboratorio\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\InterfacesMuestrasLaboratorio\obj\Debug\InterfacesMuestrasLaboratorio.csprojResolveAssemblyReference.cache
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\InterfacesMuestrasLaboratorio\obj\Debug\InterfacesMuestrasLaboratorio.dll
+c:\users\visual_dom\documents\visual studio 2015\Projects\PracticaCibertec\InterfacesMuestrasLaboratorio\obj\Debug\InterfacesMuestrasLaboratorio.pdb
